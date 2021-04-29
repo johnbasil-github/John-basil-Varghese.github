@@ -1,0 +1,69 @@
+ * {
+   box-sizing: boarder-box;
+ }
+ h1{
+   text-transform: uppercase;
+   font-family: Sans-Serif;
+   height: 0.2em;
+   margin-top:10px;
+   font-size: 20px;
+ }
+ p{
+   font-family: Verdana;
+   margin-top: 70px;
+   font-size: 15px;
+   color: rgbg(0,0,0,10);
+ }
+ p2{
+   font-family: Verdana;
+   color: rgbg(0,0,0,10);
+ }
+  img{
+    margin-bottom:0px;
+    height: 300px;
+    width: 90%;
+    left: 0;
+  }
+  nav{
+    box-shadow: 5px 10px 30px rgba(0,0,0,0.02);
+    background-color: white;
+    top: 0;
+    width: 100%;
+    left: 0;
+    position: fixed;
+  }
+   a{
+     text-decoration: none;
+     margin-left:5px;
+     color: blue;
+     
+   }
+   .last{
+     margin-top: 0;
+     margin-bottom: 0;
+   }
+   .language{
+     padding: 10px;
+     margin-top: 2px;
+     margin-bottom: 0;
+     line-height: 30px;
+   }
+    .middle{
+       text-decoration: underline;
+     }
+     .hey{
+       padding: 1px;
+     }
+     .hello{
+       padding: 10px;
+       margin-top: 0;
+       line-height: 30px;
+       
+     }
+     .paragraph {
+       margin-top: 0px;
+       font-family: Verdana;
+       margin-bottom: 0;
+     }
+     
+     
